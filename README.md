@@ -9,8 +9,13 @@ Il gruppo numero 12 è composto da:
 *   **Giannalisa Romeo:** matricola 1216078, email giannalisa.romeo@studio.unibo.it
 
 ● descrizione progetto;
+
 ● descrizione dataset;
+
 ● obiettivo;
+
 ● modelli usati;
+
 ● istruzioni per l’esecuzione;
+
 ● membri gruppo.
