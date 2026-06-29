@@ -1,0 +1,23 @@
+The dataset contains information collected during telemarketing activities carried out by a banking organization. Each record describes a customer and the outcome of a marketing campaign aimed at promoting term deposit products. The objective is to build predictive models capable of identifying customers who are more likely to subscribe to the offered financial product.
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+   Input variables:
+   # bank client data:
+   1 - age
+   2 - job: type of job 
+   3 - marital: marital status - note: "divorced" means divorced or widowed
+   4 - education: education level
+   5 - default: has credit in default?
+   6 - balance: average yearly balance, in euros 
+   7 - housing: has housing loan?
+   8 - loan: has personal loan?
+   9 - contact: contact communication type 
+  10 - day: last contact day of the month
+  11 - month: last contact month of year
+  12 - duration: last contact duration, in seconds
+  13 - campaign: number of contacts performed during this campaign and for this client
+  14 - pdays: number of days that passed by after the client was last contacted from a previous campaign, -1 means client was not previously contacted
+  15 - previous: number of contacts performed before this campaign and for this client
+  16 - poutcome: outcome of the previous marketing campaign
+  17 - y - has the client subscribed a term deposit?
+
