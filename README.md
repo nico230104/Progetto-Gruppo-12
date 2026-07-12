@@ -1,8 +1,4 @@
-Erika
-Progetto-Gruppo-12
-
 # Progetto-Gruppo-12
-main
 Dataset scelto: Employee Attrition
 
 Obiettivo: previsione dell'abbandono dei dipendenti
