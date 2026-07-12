@@ -16,8 +16,9 @@ Il lavoro è strutturato in cinque fasi:
 1. Setup del progetto e del repository GitHub
 2. Descrizione e comprensione del dataset (statistiche descrittive, riflessioni critiche)
 3. Analisi esplorativa e visualizzazione (grafici, domande/ipotesi, confronti tra gruppi)
-4. Modellazione (tre classificatori con preprocessing autonomo)
+4. Modellazione (tre modelli predittivi)
 5. Valutazione e interpretazione dei risultati (metriche, confusion matrix, coefficienti, feature importance)
+6. Report finale in Latex
 
 *Descrizione del dataset*
 È stato utilizzato un dataset aziendale contenente informazioni anagrafiche, professionali ed economiche dei dipendenti).
