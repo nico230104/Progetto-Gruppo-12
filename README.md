@@ -1,7 +1,10 @@
 # Progetto-Gruppo-12
 Corso: Introduzione alla Data Science e al Pensiero Computazionale A.A. 2025/2026
+
 Università: Alma Mater Studiorum — Università di Bologna
+
 Dataset scelto: Employee Attrition
+
 Membri del gruppo:
 *   **Nicoletta Aloisi:** matricola 1216124, email nicoletta.aloisi@studio.unibo.it
 *   **Erika Avdiaj:** matricola 1226030, email erika.avdiaj@studio.unibo.it
