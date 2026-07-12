@@ -1,5 +1,4 @@
 # Progetto-Gruppo-12
-Docente: Francesco Poggi — francesco.poggi5@unibo.it
 Corso: Introduzione alla Data Science e al Pensiero Computazionale A.A. 2025/2026
 Università: Alma Mater Studiorum — Università di Bologna
 Dataset scelto: Employee Attrition
