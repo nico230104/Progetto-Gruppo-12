@@ -60,7 +60,7 @@ La Random Forest fornisce la feature importance, che individua MonthlyIncome, Ag
 
 Requisiti: Python + Librerie: pandas, numpy, matplotlib, seaborn, scikit-learn
 - Aprire il file notebooks/Progetto_Gruppo_12.ipynb su Google Colab
-- Caricare i file data/Employee_Attrition.csv e data/Employee_Attrition_Description.csv nella cartella sample_data/ di Colab
+- Caricare il file data/Employee_Attrition.csv nella cartella sample_data/ di Colab
 - Eseguire le celle in ordine dall'alto verso il basso
 
 Il notebook deve essere eseguito in ordine sequenziale: le fasi successive dipendono dalle variabili create nelle precedenti.
